@@ -1,4 +1,4 @@
-# Hello to everyone! ❤️ <img src="https://media3.giphy.com/media/JZcBG7iOpuN7LnArcv/giphy.gif?cid=6c09b9525ishs62m0foxxhuh6kp40168thxf28jvj3smh6mt&rid=giphy.gif&ct=s" width="100" height="80" alt="Animated GIF">
+# Hello to everyone! <img src="https://media3.giphy.com/media/JZcBG7iOpuN7LnArcv/giphy.gif?cid=6c09b9525ishs62m0foxxhuh6kp40168thxf28jvj3smh6mt&rid=giphy.gif&ct=s" width="100" height="100" alt="Animated GIF">
 
 
 ## About me 😊
