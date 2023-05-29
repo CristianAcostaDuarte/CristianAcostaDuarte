@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![Animated GIF](https://64.media.tumblr.com/72638707b543e33f8cde4d54e99de25b/tumblr_mzkhbaMwpW1scncwdo1_500.gifv)
+ 👋
 
 <!--
 **CristianAcostaDuarte/CristianAcostaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
