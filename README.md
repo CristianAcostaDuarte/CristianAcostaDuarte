@@ -3,7 +3,7 @@
 ## About me 😊
 My name is Cristian and I'm an electronic engineer with a huge love for AI, data, cloud tech, and robots. Recently graduated and ready to dive into the exciting world of technology. Fascinated by the limitless possibilities of AI and thrilled to develop cutting-edge algorithms. 
 
-## My Tech Stack <img src="https://i.gifer.com/3Eqa.gif" width="100" height="100" alt="Animated GIF">
+## My Tech Stack <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" width="100" height="100" alt="Animated GIF">
 
 - Python ![Python Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) 
 
