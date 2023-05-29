@@ -6,7 +6,7 @@ My name is Cristian and I'm an electronic engineer with a huge love for AI, data
 ## My Tech Stack
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI0MTZjODRkNmMyOTNmZWFkM2M1OTVkMjU0ZmMzNjk5Nzc5Nzg1OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/f6hnhHkks8bk4jwjh3/giphy.gif" width="100" height="100" alt="Animated GIF">
 
-- Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="10" height="10" alt="Python Icon">
+- Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python Icon">
 
 
 
