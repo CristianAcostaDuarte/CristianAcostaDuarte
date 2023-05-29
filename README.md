@@ -1,9 +1,9 @@
-# Hello to everyone! ❤️
+# Hello to everyone! ❤️ <img src="https://64.media.tumblr.com/72638707b543e33f8cde4d54e99de25b/tumblr_mzkhbaMwpW1scncwdo1_500.gifv" width="250" height="250" alt="Animated GIF">
+
 
 ## About me 😊
 My name is Cristian and I'm an electronic engineer with a huge love for AI, data, cloud tech, and robots. Recently graduated and ready to dive into the exciting world of technology. Fascinated by the limitless possibilities of AI and thrilled to develop cutting-edge algorithms. 
 
-![Animated GIF](https://i.pinimg.com/originals/b5/83/19/b583195d957a3779c216f0cd684ec6ca.gif)
  
 
 <!--
